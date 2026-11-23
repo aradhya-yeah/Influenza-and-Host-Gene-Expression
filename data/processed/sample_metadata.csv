@@ -1,0 +1,16 @@
+sample_title,geo_accession,tissue,infection_status,treatment,group,condition
+Hulu_fluB_1,GSM5910102,lung,influenza B,FluB_337_24hpi,Infected,FluB_337_24hpi
+Hulu_fluB_10,GSM5910103,lung,mock,Mock_48hpi,Mock,Mock_48hpi
+Hulu_fluB_11,GSM5910104,lung,influenza B,FluB_337_24hpi,Infected,FluB_337_24hpi
+Hulu_fluB_12,GSM5910105,lung,influenza B,FluB_337_48hpi,Infected,FluB_337_48hpi
+Hulu_fluB_13,GSM5910106,lung,influenza B,FluB_Bay_24hpi,Infected,FluB_Bay_24hpi
+Hulu_fluB_14,GSM5910107,lung,influenza B,FluB_Bay_48hpi,Infected,FluB_Bay_48hpi
+Hulu_fluB_15,GSM5910108,lung,mock,Mock_48hpi,Mock,Mock_48hpi
+Hulu_fluB_2,GSM5910109,lung,influenza B,FluB_337_48hpi,Infected,FluB_337_48hpi
+Hulu_fluB_3,GSM5910110,lung,influenza B,FluB_Bay_24hpi,Infected,FluB_Bay_24hpi
+Hulu_fluB_4,GSM5910111,lung,influenza B,FluB_Bay_48hpi,Infected,FluB_Bay_48hpi
+Hulu_fluB_5,GSM5910112,lung,mock,Mock_48hpi,Mock,Mock_48hpi
+Hulu_fluB_6,GSM5910113,lung,influenza B,FluB_337_24hpi,Infected,FluB_337_24hpi
+Hulu_fluB_7,GSM5910114,lung,influenza B,FluB_337_48hpi,Infected,FluB_337_48hpi
+Hulu_fluB_8,GSM5910115,lung,influenza B,FluB_Bay_24hpi,Infected,FluB_Bay_24hpi
+Hulu_fluB_9,GSM5910116,lung,influenza B,FluB_Bay_48hpi,Infected,FluB_Bay_48hpi
